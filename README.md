@@ -1,20 +1,24 @@
-# Student Grading System
+# 🎓 Student Grading System (JavaScript)
 
 ## 📌 Description
-This is a simple JavaScript program that evaluates student marks and assigns grades based on performance.
+An interactive command-line application that evaluates student marks and assigns grades based on performance.
 
 ## 🚀 Features
+- Accepts user input
+- Validates input (no invalid marks allowed)
 - Assigns grades (A, B, C, F)
-- Provides performance feedback
-- Simple and easy to understand logic
+- Runs continuously until user exits
 
 ## 🛠️ Technologies Used
 - JavaScript
 - Node.js
+- prompt-sync
 
 ## ▶️ How to Run
 1. Install Node.js
-2. Run the program:
+2. Install dependencies:
+   npm install
+3. Run the app:
    node grading.js
 
 ## 📊 Grading Criteria
@@ -22,6 +26,10 @@ This is a simple JavaScript program that evaluates student marks and assigns gra
 - B → 60–79 (Good)
 - C → 50–59 (Average)
 - F → Below 50 (Fail)
+
+## ✨ Example
+Enter your marks: 75  
+Output: B - Good
 
 ## 👩‍💻 Author
 Maurine
