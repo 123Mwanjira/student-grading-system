@@ -1,0 +1,24 @@
+{
+  "name": "javascript-projects",
+  "version": "1.0.0",
+  "description": "This is a simple JavaScript program that evaluates student marks and assigns grades based on performance.",
+  "main": "grading.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/123Mwanjira/student-grading-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/123Mwanjira/student-grading-system/issues"
+  },
+  "homepage": "https://github.com/123Mwanjira/student-grading-system#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
